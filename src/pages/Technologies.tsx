@@ -26,7 +26,7 @@ const Technologies: FunctionComponent = () => {
         </div>
         <div className={styles.textGroup}>
           <div className={styles.weAlwaysRemainContainer}>
-            <span>{`We Always remain updated & use latest `}</span>
+            <span>{`We Always remain updated & reuse latest version of `}</span>
             <span className={styles.entertaine}>Technologies</span>
           </div>
           <div className={styles.loremIpsumIs}>
